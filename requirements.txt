@@ -1,0 +1,3 @@
+# Librería oficial para consumo seguro de APIs HTTP/REST (ES3).
+# Persistencia (sqlite3, json) y cifrado (hashlib, hmac) usan la biblioteca estándar de Python 3.10+.
+requests>=2.31.0

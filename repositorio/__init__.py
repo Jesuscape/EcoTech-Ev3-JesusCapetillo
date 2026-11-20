@@ -1,0 +1,4 @@
+from repositorio.conexion import ConexionBD, cargar_env, inicializar_bd
+from repositorio.consulta_repo import ConsultaExternaRepositorio
+from repositorio.departamento_repo import DepartamentoRepositorio
+from repositorio.empleado_repo import EmpleadoRepositorio
